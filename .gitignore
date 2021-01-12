@@ -20,3 +20,7 @@ CMakeUserPresets.json
 *-prefix/
 
 # End of https://www.toptal.com/developers/gitignore/api/cmake
+
+.idea/
+cmake-build-debug/
+CMakeLists.txt
