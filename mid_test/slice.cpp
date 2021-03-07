@@ -31,7 +31,6 @@ int main(){
 //        for(auto it:ans)
 //            cout << it.first << " " << it.second << "\n";
     }
-    int x = 0;
     while(!s.empty()){
         if(s.top().first <= 0)
             break;
